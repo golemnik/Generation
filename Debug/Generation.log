@@ -1,0 +1,4 @@
+﻿  Generation.cpp
+D:\Dev\Generation\Generation\Generation.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Dev\Generation\Generation\Generation.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Generation.vcxproj -> D:\Dev\Generation\Debug\Generation.exe
